@@ -11,10 +11,10 @@
   "author": "",
   "license": "AGPL-3.0",
   "dependencies": {
-    "scribe.js-ocr": "^0.8.0"
+    "scribe.js-ocr": "^0.10.0"
   },
   "devDependencies": {
-    "webpack": "^5.94.0",
+    "webpack": "^5.105.0",
     "webpack-cli": "^5.1.4",
     "http-server": "^14.1.1"
   }
