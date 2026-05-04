@@ -14,8 +14,8 @@
     "scribe.js-ocr": "^0.10.0"
   },
   "devDependencies": {
-    "webpack": "^5.105.0",
-    "webpack-cli": "^5.1.4",
+    "webpack": "^5.106.2",
+    "webpack-cli": "^7.0.2",
     "http-server": "^14.1.1"
   }
 }
